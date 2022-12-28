@@ -10,3 +10,4 @@ completed internship assignment
 --run the command -- {venv_name}/bin/activate
 --run the command -- pip install -r requirements.txt
 --Now Open the solution.ipynb file in any Notebook Editor and click RunAll Button.
+
